@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)
 <h1 align="center">Hi 👋, I'm Gimhana Hasakelum</h1>
 <h3 align="center">A Passionate Data Analyst From Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.dBPwuC3Dh2WWFFYTwogTMAHaDc&pid=Api&P=0&h=220">
