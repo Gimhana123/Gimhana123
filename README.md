@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)
 <h1 align="center">Hi 👋, I'm Gimhana Hasakelum</h1>
-<h3 align="center">A Passionate Data Analyst From Sri Lanka</h3>
+<h3 align="center">A Passionate Machine Learning, Deep Learning From Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.dBPwuC3Dh2WWFFYTwogTMAHaDc&pid=Api&P=0&h=220">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimhana123&label=Profile%20views&color=0e75b6&style=flat" alt="gimhana123" /> </p>
 
